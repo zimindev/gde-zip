@@ -1,4 +1,4 @@
-# **📚 Complete Archive Guide for Linux (zip, unzip, p7zip) 🐧**
+# **📚 Complete Archive Guide for CLI \ Linux (zip, unzip, p7zip) 🐧**
 
 Manage your files like a pro! This guide covers **creating, extracting, and inspecting archives** using `zip`, `unzip`, and `p7zip` across all major Linux distros.
 
